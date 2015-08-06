@@ -24,8 +24,6 @@ public class gui {
     private int xsize = 7;
     private int ysize = 6;
     private int currentPlayer = 1;
-
-    //maiking of grid and logic
     Grid my_grid = new Grid();
    
       
